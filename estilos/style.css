@@ -135,5 +135,7 @@
  }
 
  form > a.botao:hover { 
-   background-color: #23A8D2;
+   background-color: #8C8C8C;
+   color: #FFFF;
+   border: #8C8C8C 1px solid;
  }
